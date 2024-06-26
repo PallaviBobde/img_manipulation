@@ -1,6 +1,6 @@
 # 🖼️ Image Manipulator Caman js🎨
 
-![Image Manipulator Logo](path/to/logo.png)
+![Image Manipulator Logo](https://github.com/PallaviBobde/photo-resources/blob/main/Screenshot%202024-06-25%20at%207.47.38%E2%80%AFPM.png?raw=true)
 
 Welcome to **Image Manipulator**! A web application for manipulating images with various tools and effects.
 
